@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://curso-laravel.test",
+    "env": {
+        "expenseTitle": "Este es un titulo de expense de prueba"
+    },
+    "video": false
+    
+}
